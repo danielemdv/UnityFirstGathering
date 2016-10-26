@@ -3,7 +3,7 @@ using System.Collections;
 
 public class alienBehaviour : MonoBehaviour {
 
-	public float timeWaitToMove = 1f;
+	public float timeWaitToMove = 2f;
 	public float moveDistance = 0.05f;
 
 	private int nextDirectionIndex = 0;
